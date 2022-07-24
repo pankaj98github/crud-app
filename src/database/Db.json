@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Pankaj Kumbhare",
+      "username": "pankaj25",
+      "email": "pk@gmail.com",
+      "phone": "7896412541",
+      "id": 1
+    },
+    {
+      "name": "Kapil Sharma",
+      "username": "kapilsharma",
+      "email": "ks@gmail.com",
+      "phone": "8541256787",
+      "id": 2
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "viratkohli",
+      "email": "vk@gmail.com",
+      "phone": "9657413215",
+      "id": 3
+    }
+  ]
+}
